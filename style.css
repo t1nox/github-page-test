@@ -249,7 +249,7 @@ a, h1, h2, h3, h4, h5, h6, span, p, ul, li {
   padding-bottom: 203px; }
   @media (max-width: 991px) {
     .intro {
-      padding-top: 130px;
+      padding-top: 120px;
       padding-bottom: 100px; } }
   .intro__title {
     text-transform: uppercase; }
